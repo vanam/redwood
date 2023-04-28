@@ -1,0 +1,98 @@
+{
+  "a06cd5f4bb42f8ca90647125616d63fe46fd740d": {
+    "message": "fix: fix filter on booleans for compat checks (#8225)",
+    "needsCherryPick": true
+  },
+  "8913c0558865c30642de92415647c8c93a072307": {
+    "message": "fix typo in azure package.json (#8222)",
+    "needsCherryPick": true
+  },
+  "e927828b67cbff6e7820077382f30226cf0c1999": {
+    "message": "docs: Add How To Build Dashboards Fast Using Tremor (#8206)",
+    "needsCherryPick": true
+  },
+  "1783a18148a3d8a8913c09f884251ec2070e2ce6": {
+    "message": "chore(deps): update dependency @types/react to v18.2.4 (#8219)",
+    "needsCherryPick": true
+  },
+  "3ce08611203c757ad9a6abf996bbb4436054c30d": {
+    "message": "fix(deps): update dependency @apollo/client to v3.7.14 (#8216)",
+    "needsCherryPick": true
+  },
+  "83532902dec0365fb3510c3d72a87796264d0b9e": {
+    "message": "Fix issue 8180. No undefined ns, name, or message. (#8181)",
+    "needsCherryPick": true
+  },
+  "11770704c8276e620ed610819ccce4a3cc4d827c": {
+    "message": "chore(deps): update react monorepo (#8215)",
+    "needsCherryPick": true
+  },
+  "8fcc204bd1870d41812386e5a3fe8bb5a8d59dff": {
+    "message": "chore(crwa): add template test (#8213)",
+    "needsCherryPick": true
+  },
+  "addfcea7f511ef87dec8d76bde2bc21279a70302": {
+    "message": "fix(deps): update dependency @types/aws-lambda to v8.10.115 (#8204)",
+    "needsCherryPick": true
+  },
+  "5b0938c6e160b5395366d04b242ae7b51fa85083": {
+    "message": "fix(deps): update dependency listr2 to v6.4.2 (#8207)",
+    "needsCherryPick": true
+  },
+  "294d9d154710d7ddac4ab16c949d4a96f3860c69": {
+    "message": "fix(deps): update dependency pino to v8.12.1 (#8208)",
+    "needsCherryPick": true
+  },
+  "933ddb2a8997f42137ee12afe63d2148e0e24783": {
+    "message": "chore(deps): update dependency nx to v16.0.3 (#8201)",
+    "needsCherryPick": true
+  },
+  "965b3b51ceba011a2ba13449ac114b60af8c95ea": {
+    "message": "chore(deps): update dependency supertokens-auth-react to v0.32.1 (#8210)",
+    "needsCherryPick": true
+  },
+  "50b082d765a3040f62a18b36d113d19d40c198b1": {
+    "message": "Update package.json (#8214)",
+    "needsCherryPick": true
+  },
+  "bd6b29df928171c5d521262705371bdd2d48e228": {
+    "message": "fix(v5 react codemod): handle custom web index (#8211)",
+    "needsCherryPick": true
+  },
+  "9e183cfbf899caaa04e6df7c0f1aff02296c9366": {
+    "message": "chore(deps): update react monorepo (#8209)",
+    "needsCherryPick": true
+  },
+  "e29beab28b286123bde2d2a521b82a18909650b4": {
+    "message": "Add missing deps (#8200)",
+    "needsCherryPick": true
+  },
+  "37c3dea1af8e67d2c3d9cd4c030852c670a74598": {
+    "message": "fix(deps): update dependency pino to v8.12.0 (#8199)",
+    "needsCherryPick": true
+  },
+  "e492ca84bd0ffd8d7a70ba9e2c30eb362b4b1d0a": {
+    "message": "chore(deps): update yarn to v3.5.1 (#8188)",
+    "needsCherryPick": true
+  },
+  "355ab56b3d594b7dec8704823e0f550b273397a5": {
+    "message": "chore(deps): update babel monorepo to v7.21.8 (#8197)",
+    "needsCherryPick": true
+  },
+  "e0352461c076c0bff8b400975a1e3939a0cdc3d7": {
+    "message": "fix(deps): update dependency sqlite to v4.2.0 (#8184)",
+    "needsCherryPick": true
+  },
+  "76a9a6b061f0735e8fe116a164fcd89fba1925b5": {
+    "message": "fix(deps): update dependency vite to v4.3.4 (#8194)",
+    "needsCherryPick": true
+  },
+  "df8956b707ad767208872334958f4338c82f242b": {
+    "message": "fix(deps): update dependency @fastify/http-proxy to v9.1.0 (#8195)",
+    "needsCherryPick": true
+  },
+  "f423de94e1a7bce36482ca132f1c714d69158ace": {
+    "message": "chore(deps): update dependency nx to v16.0.2 (#8198)",
+    "needsCherryPick": true
+  }
+}
